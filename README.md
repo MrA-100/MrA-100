@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about user-side scripting in HTML.
 - 📫 How to reach me: Mail at khurana.akshajt@gmail.com
-- My friends are <a href="https://github.com/DibyajyotiBiswal57"> Dibyajyoti</a>, <a href="https://github.com/albert-hawkins-heisenberg"> Aryaman</a>, <a href="https://github.com/UnderRatedCoder05"> Kshitij</a>, <a href="https://github.com/dsdoescreative"> Diptansu</a>.
+- 🧑‍🤝‍🧑 My friends are <a href="https://github.com/DibyajyotiBiswal57"> Dibyajyoti</a>, <a href="https://github.com/albert-hawkins-heisenberg"> Aryaman</a>, <a href="https://github.com/UnderRatedCoder05"> Kshitij</a>, <a href="https://github.com/dsdoescreative"> Diptansu</a>.
