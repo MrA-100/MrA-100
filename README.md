@@ -13,6 +13,4 @@
 <img src = "profile-3d-contrib/profile-night-view.svg">
 
 ## Mood changer 🤣
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="center" />
