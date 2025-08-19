@@ -1,6 +1,6 @@
-## Hi everyone!!! 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=100&multiline=true&width=435&height=100&lines=Hi!+I+am+MrA-100.+%F0%9F%91%8B;I+am+a+coder%2C+innovative+thinker+and+reader." alt="Typing SVG" /></a>
 
-**Facts about me**
+## Facts about me
 - 🔭 I’m currently working on QBasic and HTML (CSS, JavaScript, PHP).
 - 🌱 I’m currently learning Information Technology.
 - 👯 I’m looking to collaborate on anything.
@@ -11,4 +11,4 @@
 ## My Activity 📊
 <img src = "profile-3d-contrib/profile-night-view.svg">
 ## Mood changer 🤣
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
