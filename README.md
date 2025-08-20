@@ -16,4 +16,4 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width = "1500"/>
 
 ## Life changing quotes
-<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue" width = "1500">
+<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue">
