@@ -1,4 +1,4 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=100&center=true&multiline=true&width=1100&height=100&lines=Hi!+I+am+MrA-100.+%F0%9F%91%8B;I+am+a+coder%2C+innovative+thinker+and+reader." alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=100&center=true&multiline=true&width=1100&height=100&lines=Hi!+I+am+MrA-100." alt="Typing SVG" /></a>
 
 ## Facts about me
 - 🔭 I’m currently working on QBasic and HTML (CSS, JavaScript, PHP).
@@ -14,3 +14,4 @@
 
 ## Mood changer 🤣
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width = "1500"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
