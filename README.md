@@ -1,7 +1,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4500&pause=100&center=true&multiline=true&width=1100&height=100&lines=Hi!+I+am+Quantum404AK." alt="Typing SVG" /></a>
 
 ## Facts about me
-- 🔭 I’m currently working on QBasic and HTML (CSS, JavaScript, PHP).
+- 🔭 I’m currently working on QBasic, Python and HTML (CSS, JavaScript, PHP).
 - 🌱 I’m currently learning Information Technology.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with Java.
